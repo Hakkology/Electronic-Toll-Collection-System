@@ -1,0 +1,11 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\bin\Debug\Hakan.HGS.FormsApp.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\bin\Debug\Hakan.HGS.FormsApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\bin\Debug\Hakan.HGS.FormsApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.Form1.resources
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.Properties.Resources.resources
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.HGS\Hakan.HGS.Renew\Hakan.Forms\Hakan\Hakan.HGS.FormsApp\obj\Debug\Hakan.HGS.FormsApp.pdb
